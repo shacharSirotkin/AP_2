@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-mazingWebApp", "A-mazingWebApp\A-mazingWebApp.csproj", "{95B31952-95D3-4E27-BC77-FB9296A123C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAlgorithmsLib", "..\..\..\..\Desktop\ap2\ex2\SearchAlgorithmsLib\SearchAlgorithmsLib.csproj", "{19D91AD9-595C-4A28-AD3B-1F7C5A55A474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B31952-95D3-4E27-BC77-FB9296A123C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B31952-95D3-4E27-BC77-FB9296A123C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B31952-95D3-4E27-BC77-FB9296A123C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B31952-95D3-4E27-BC77-FB9296A123C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D91AD9-595C-4A28-AD3B-1F7C5A55A474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D91AD9-595C-4A28-AD3B-1F7C5A55A474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D91AD9-595C-4A28-AD3B-1F7C5A55A474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D91AD9-595C-4A28-AD3B-1F7C5A55A474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

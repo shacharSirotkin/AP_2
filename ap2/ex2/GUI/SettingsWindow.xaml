@@ -1,0 +1,43 @@
+﻿<Window x:Class="GUI.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Settings" Height="300" Width="308"
+        Closing="Window_Closing">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" MinHeight="37"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock  HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="90" ><Run FontWeight="Bold" Text="Communication"/></TextBlock>
+        <TextBlock  HorizontalAlignment="Left" Margin="10,35,0,0" TextWrapping="Wrap" Text="IP" VerticalAlignment="Top" Grid.Row="0" Grid.Column="0" Height="16" Width="10"/>
+        <TextBox Name="IP" Margin="10,32,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Grid.Row="0" Grid.Column="1" Height="22" />
+        <TextBlock  HorizontalAlignment="Left" Margin="10,66,0,0" TextWrapping="Wrap" Text="Port" VerticalAlignment="Top" Height="16" Width="22" />
+        <TextBox Name="Port" Margin="10,66,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Grid.Column="1" Height="22"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="10,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="123" ><Run FontWeight="Bold" Text="Default maze settings"/></TextBlock>
+        <TextBlock  HorizontalAlignment="Left" Margin="10,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="73" ><Run Text="Rows "/><Run Text="number"/></TextBlock>
+        <TextBox Name="DefaultRows" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Margin="10,123,0,0" Grid.Column="1" Height="22"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="10,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="16" Width="91" ><Run Text="Columns "/><Run Text="number"/></TextBlock>
+        <TextBox Name="DefaultColumns" Margin="10,154,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Grid.Column="1" Height="22"/>
+        <TextBlock  HorizontalAlignment="Left" Margin="10,191,0,0" TextWrapping="Wrap" Text="Default search algorithm" VerticalAlignment="Top" Height="16" Width="130"/>
+        <ComboBox x:Name="DefaultAlgorithm" VerticalAlignment="Top" Margin="10,188,29,0" SelectedIndex="0" Grid.Column="1" HorizontalContentAlignment="Stretch" Height="22" >
+            <ComboBoxItem Content="BFS" HorizontalAlignment="Left"/>
+            <ComboBoxItem Content="DFS" HorizontalAlignment="Left"/>
+        </ComboBox>
+        <Button Content="OK" VerticalAlignment="Center" Grid.Row="6" Grid.Column="0" HorizontalAlignment="Center" Width="70" Height="22" Margin="30,8" Click="OK_Click" />
+        <Button Content="Cancel" VerticalAlignment="Center" Grid.Row="6" Grid.Column="1" HorizontalAlignment="Center" Width="70" Height="22" Margin="30,8" Click="Cancel_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Release\SearchAlgorithmsLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Release\SearchAlgorithmsLib.pdb
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Release\MazeGeneratorLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Release\MazeLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\obj\Release\SearchAlgorithmsLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\obj\Release\SearchAlgorithmsLib.pdb

@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../Scripts/jquery-3.2.1.min.js"></script>
+    <script src="../Scripts/jquery.NavBarLoader.js"></script>
+</head>
+<body>
+    <link href="../Styles/bootstrap.css" rel="stylesheet" />
+    <div id="NavBar"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h1>Settings</h1>
+                <form id="settings" >
+                    <div class="form-group">
+                        <input type="text" name="rows" id="rows" tabindex="1" class="form-control" placeholder="rows" value="">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="cols" id="cols" tabindex="1" class="form-control" placeholder="cols" value="">
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <label>Search Algorithm</label>
+                        </div>
+                        <div class="col-sm-1">
+                            <select id="algoSelect">
+                                <option id="bfs" value="bfs">BFS</option>
+                                <option id="dfs" value="dfs">DFS</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-6 col-sm-offset-3">
+                                <input name="save-setting-submit" id="save-setting-submit" tabindex="4" class="form-control btn"
+                                       value="Save Settings" style="background-color:darkgray" onclick="save()"/>
+                                <div id="try"></div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="../Scripts/jQuery.settings.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿<UserControl 
+             x:Class= "GUI.Controls.MazeDetailsUserControl"
+             xmlns= "http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x= "http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc= "http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d= "http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GUI.Controls"
+             xmlns:controls="clr-namespace:GUI"
+             mc:Ignorable = "d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             Name = "MazeDetails">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Margin="10,74,186,171" Text="Maze Name:" FontSize="16" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto"/>
+        <TextBlock Margin="10,113,186,132" Text="Maze Rows:" FontSize="16" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto"/>
+        <TextBlock Margin="10,157,176,88" Text="Maze columns:" FontSize="16" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto"/>
+        <TextBox  Name="MazeName" Margin="121,78,34,191" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" Text="{Binding MazeName}" />
+        <TextBox  Name="MazeRows" Margin="121,116,34,153" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" Text="{Binding MazeRows}" />
+        <TextBox  Name="MazeCols" Margin="121,157,34,112" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" Text="{Binding MazeCols}" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,891 @@
+commit c656142ef465765ca8de8453ceb45f17e2d78ece
+Merge: e0ba82a c278d42
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Tue May 30 15:49:17 2017 +0200
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit c278d42bd000c1046f470300f7b9ac0d361947d4
+Author: Matanel <User@USER-THINK>
+Date:   Tue May 30 09:44:24 2017 +0300
+
+    OpponentMoved with events, but crush when opponent move..
+
+commit e0ba82a5106f59049a92f362855e532333686f83
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Tue May 30 01:24:52 2017 +0200
+
+    updating comboBox in runtime
+
+commit 101b962afcd755f2a023b8b0ac314fb4c21d59ba
+Merge: 63cba6d 009af68
+Author: Matanel <User@USER-THINK>
+Date:   Tue May 30 00:11:15 2017 +0300
+
+    Merge.
+
+commit 63cba6d2c15c5f8cc6d32aa581378cf181ced234
+Author: Matanel <User@USER-THINK>
+Date:   Tue May 30 00:09:59 2017 +0300
+
+    Commit for merge.
+
+commit 3cbcba37664010f1d3723158ce85d39e4c8d2fa7
+Author: Matanel <User@USER-THINK>
+Date:   Tue May 30 00:09:03 2017 +0300
+
+    Added delegate to MultiPlayer.
+
+commit 009af680f7b34a5ce72b4059e64bb2f33bfdfbeb
+Merge: 9fbfa31 35caff8
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 29 23:01:52 2017 +0200
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 9fbfa3162f5bcdb13cf1887196b94df5ec3a9468
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 29 22:59:53 2017 +0200
+
+    basic game connnection in MultiModel
+
+commit 39dcdb268caaa9ee17b35310cecf3bcba9f8501d
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 29 21:27:20 2017 +0200
+
+    waiting window work as expected, minor change in hide-show logic
+
+commit 35caff8194907e1cd89fe6eea6051558652f6a3b
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 29 21:01:03 2017 +0300
+
+    MultiPlayer Window now opens with an according Title.
+
+commit 884e8989428376f5955cbc4a6fdc03f741f5b688
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 29 19:10:29 2017 +0300
+
+    THE BIG "SOLVE" PROBLEM - SOLVED!!!
+    And no communication error.
+
+commit dd4eccc398c4f2abfb989bb88dc4fec3ca88c11f
+Merge: 1a754ac 12ff440
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 29 15:54:49 2017 +0200
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 1a754ace3216881d2d61ab239e1efe2596783248
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 29 15:50:30 2017 +0200
+
+    step 1 of multi game communication
+
+commit 12ff4404307f6b293ca2c4506272026fe5db3828
+Merge: 677a8a2 36db622
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 29 09:51:47 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 36db622a4d5e2eab2f86e51514a9b66bbab6287f
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Sun May 28 15:20:23 2017 +0200
+
+    updating multiWindows.xaml.cs
+
+commit 09ce68dd3daf920708a118e094ebd5ef3be64ee6
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Sun May 28 14:55:43 2017 +0200
+
+    adding hide and show  logic to main window
+
+commit 6a3717fadd880b78ac37e94bb2173496154fb66d
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Sun May 28 14:14:20 2017 +0200
+
+    add
+
+commit 9e47002b14e8d8c36c9b26ab268090b7b6cf53ef
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Sun May 28 14:13:58 2017 +0200
+
+    adding waiting window
+
+commit 677a8a211cd0fbcc38531b5cf770cba7c1cfa5d4
+Author: Matanel <User@USER-THINK>
+Date:   Fri May 26 02:13:13 2017 +0300
+
+    Multiplayer mode - there are two mazes, one can be moved by the arrows.
+
+commit a60c2bbcde4d3a1f1d1296759cf03eab5f207e48
+Merge: d43d81b 1bfd03e
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 21:48:08 2017 +0200
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit d43d81b7ed47a2e1592d67a9e30cbb961a3681af
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 21:29:26 2017 +0200
+
+    basic multi game window
+
+commit 1bfd03ed13196cf5e86e2bc9b2b34cd73e0b118f
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 21:14:24 2017 +0300
+
+    "SOLVE" button finally WORKS :))))))
+
+commit 5bfac9892c9883bbbfcdd85859327770ce1c822b
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 18:43:44 2017 +0200
+
+    very very begining of multi game window
+
+commit 3d2eafafe2c40784740416e329291d79a0fae994
+Merge: 625325f 5bfac98
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 19:15:10 2017 +0300
+
+    COMMIT
+
+commit 625325fafb3c649e0b420691c64bc33e4c85f6cb
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 19:12:22 2017 +0300
+
+    REVERT
+
+commit f915b0dff8ccefbccb9271a223666932f89f299d
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 19:08:49 2017 +0300
+
+    Revert "Solve button workd."
+    
+    This reverts commit adecddaf3efd8d3b5ab630c13bf62fd18bd8b33c.
+
+commit eb2116058d2c973d784a436630498564c32a3f9c
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 18:00:40 2017 +0200
+
+    join and start communication works!
+
+commit e99ea5f27764596d2603d1328f335cf95e7b12dd
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 18:58:53 2017 +0300
+
+    Revert
+
+commit 31fb50cab2138634993555c93d15c4ccf065ffd2
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 18:52:11 2017 +0300
+
+    Useless Commit.
+
+commit 5a5666ae4c7733bb69dfda5947f24d16cb9796cc
+Merge: a290c06 1e77fd9
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 14:48:34 2017 +0200
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit a290c06ebbd1a4007959bed6641b4781badaa372
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 14:47:50 2017 +0200
+
+    HAAAAAAAAAAAA
+
+commit 1e77fd9debcfe8560f2e4a0113734dae391d756a
+Merge: d2fd7a8 d157b5c
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 14:27:33 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit d2fd7a8edde8fff7613cdb3133576cd8600fa528
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 14:25:32 2017 +0300
+
+    Commit.
+
+commit fe168695ee6dabb2f8326e576e49e4ee79de3811
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 14:24:45 2017 +0300
+
+    Commit.
+
+commit 7b29a8fef5029ce9180a5292ae6d57f9135b4931
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 14:17:51 2017 +0300
+
+    Commit for pull.
+
+commit d157b5c126fed9dd471de7e1ab528eb68f9fdef7
+Merge: 3739c26 2db821c
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 12:53:29 2017 +0200
+
+    trying to resolve merge
+
+commit 3739c268b266b851a28e40603d88151a918adbd7
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 12:07:37 2017 +0200
+
+    commit before co to another branch
+
+commit 2db821c2ab9f03d518ce80dfcba7216e444f6486
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 11:46:21 2017 +0200
+
+    commit before pulling again
+
+commit 3f1b7dc0ecbaf5b8d676ed54c57507466e0ee984
+Merge: d3768aa adecdda
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 11:43:06 2017 +0200
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit d3768aaec35947dc53251b98b04f04e2246654bc
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Thu May 25 11:42:12 2017 +0200
+
+    commit before pulling
+
+commit 81d4290425daae5aa8e2f5e9bece475ae677f299
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 10:35:50 2017 +0300
+
+    "Solve" is really almost done. Just need to take care of (InitialPos == GoalPos).
+
+commit adecddaf3efd8d3b5ab630c13bf62fd18bd8b33c
+Author: Matanel <User@USER-THINK>
+Date:   Thu May 25 02:08:27 2017 +0300
+
+    Solve button workd.
+
+commit 755bf72b3f1cb1bde197e5fef3163a40bde9d99c
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 23:33:08 2017 +0300
+
+    "Solve" finally give the right string.
+
+commit 0b635f8c5679bf247d97f83bfed9b7c1badfd317
+Merge: 5f8d10d 7699f13
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 17:32:23 2017 +0200
+
+    merged! again :(
+
+commit 5f8d10d9e41ca394118d667cf2af6746a2e45105
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 17:29:04 2017 +0200
+
+    add multiPlayer viewModel
+
+commit 9fcecc9bc2d384a7ad7e883b4ba40c3d26b4932b
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 18:06:22 2017 +0300
+
+    Push.
+
+commit 9806baa41ae680eda9b05e6a9cf660298e6b4612
+Merge: 89b3bb1 0d3fc58
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 17:53:44 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 89b3bb18c280102f841f45b023d34177909c8d49
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 17:52:52 2017 +0300
+
+    GUI DELETED!
+
+commit 2cda60888ca02286bf3cfc0150cb2cf1f37c3e12
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 16:47:49 2017 +0200
+
+    xxvxvx
+
+commit 9d9a926762a403e302be957459d756d3f40b7dbc
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 17:47:45 2017 +0300
+
+    Try to push.
+
+commit 0d3fc585f648e162111f5c1be67d351e40fbcdf0
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Wed May 24 14:38:28 2017 +0000
+
+    GUI.csproj deleted online with Bitbucket
+
+commit 7699f1322c03adbb2c0e93def6e12f2ef683487b
+Merge: b084dfa 05c4a2d
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 17:25:37 2017 +0300
+
+    Merged.
+
+commit b084dfab8aad7a45eac616106dc3855e2b4b6e12
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 17:21:52 2017 +0300
+
+    Try to commit in order to complete shacar's repository. RIGHT NOW, the "solve" command does not solve anything :(
+
+commit c508e42125f337faa1a285698673ca2321a2655e
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 16:16:24 2017 +0200
+
+    revert to last version includs multiVM
+
+commit 17483392daa40749908a55eda65b2c3b8e2c9f3c
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 16:12:51 2017 +0200
+
+    Gui.csproj changed
+
+commit 05c4a2dfa8bb2c3bbe4ebad7365bfb05fd453c7b
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 16:02:48 2017 +0200
+
+    trying to commit comboBox again
+
+commit 5fa877ce9b8078d43531880131f8502b48c69bc2
+Merge: b8a1459 72d046f
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 15:51:51 2017 +0200
+
+    merging MultiPlayer menu and singlePlayer game
+
+commit b8a1459e3d04365b70b0220ce455457be0636b40
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Wed May 24 15:47:28 2017 +0200
+
+    multiPlayer comboBox gameNames
+
+commit 72d046f9ec11bc25c475a2c2f61bb1c4a844b69e
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 12:07:39 2017 +0300
+
+    Single Player game is almost done - except the solve.
+
+commit 72c0a05a7faa0318727cc86231336a3b1fbfa28e
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 11:56:17 2017 +0300
+
+    You Won window is up.
+
+commit 4547a8f1bc5f6488ce9150a3e258cd383bbad807
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 24 00:27:15 2017 +0300
+
+    There is a movement, But player get out of bound :(
+
+commit ef62badef522b727bce2366e586efc6ee4d5a9e0
+Author: Matanel <User@USER-THINK>
+Date:   Tue May 23 18:16:02 2017 +0300
+
+    SinglePlayer window is up correctly.
+
+commit 6de5695d8e00359605c6a434f06fc466f732b7c6
+Author: Matanel <User@USER-THINK>
+Date:   Tue May 23 00:05:49 2017 +0300
+
+    Single playet game window is up (not like it should be..)
+
+commit e2a03f00fe84684a36108288d8d97193aac3852c
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 22:28:10 2017 +0300
+
+    Single player "start" button works!
+
+commit d7b90c7f00f217acedf4c265baf8b7e63f6fe33a
+Merge: 2cc8d82 9f5bfe7
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 19:13:10 2017 +0300
+
+    Commit merge - Communication doesn't work yet.
+
+commit 9f5bfe756e8db63b5fbd8e6dd5b7e9dcb3133c97
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 22 19:02:23 2017 +0300
+
+    communication doesnt work yet
+
+commit 2cc8d829b29ec1198406d2de7ac881dfd8f6aefe
+Merge: 4475cf1 00eb3f7
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 18:58:59 2017 +0300
+
+    Commit merge - The "start" button is out of the userControl.
+
+commit 4475cf118bde573501c2191947701fce2c0d3f65
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 18:57:32 2017 +0300
+
+    Commit before pull.. No communication yet.
+
+commit 00eb3f7ba31a27d7bca80cca4d7cf92131f445ae
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 22 18:55:13 2017 +0300
+
+    communication still doesnt work
+
+commit 472f8084bd9bd0096e722b7fe3145c1510a1dce0
+Merge: 7cd078d cd39d6e
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 14:47:28 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 7cd078d164dde2ea314506e16a6e4689c4b9c37b
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 14:46:53 2017 +0300
+
+    Try not to destroy 2
+
+commit 01123c2aefaf92059883cf91272a896bc01a7bf9
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 14:44:52 2017 +0300
+
+    Try not to destroy the whole project
+
+commit d77159c5c395cb8622c166156793814ed02376f0
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 14:32:00 2017 +0300
+
+    The maze user control works fine with different mazes.
+
+commit faad6dfb4971982160b9f503a89d8e432d896ebc
+Author: Matanel <User@USER-THINK>
+Date:   Mon May 22 12:24:09 2017 +0300
+
+    There is a maze on the screen, with a player image.
+
+commit cd39d6ea660b92b78a7f5060c999d414ee882136
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Sun May 21 20:39:21 2017 +0300
+
+    add singlePlayer model and viewModel
+
+commit 63b8dd5ff77d39f9d867eef4dcfa411e8e19f5bf
+Author: Matanel <User@USER-THINK>
+Date:   Sun May 21 14:12:49 2017 +0300
+
+    Single player & Multi player windows changed.
+
+commit 5b4628877be7b60fb00cb82d749c885b6a216722
+Author: Matanel <User@USER-THINK>
+Date:   Sun May 21 12:18:09 2017 +0300
+
+    SinglePlayer window is up now.
+
+commit c1dd7cf566f8d6c8446e3f8dad957d7898448eca
+Author: Matanel <User@USER-THINK>
+Date:   Fri May 19 13:25:48 2017 +0300
+
+    MultiPlayer Button shows the dialog window.
+    SinglePlayer button make some problem right now..
+
+commit 4a02ee2ea7aa72c909a316f5325c3706d4b159a2
+Merge: 209fb92 cd4dd77
+Author: Matanel <User@USER-THINK>
+Date:   Fri May 19 11:54:09 2017 +0300
+
+    Merge project
+
+commit 209fb92bb1d0e55ed26d39577b73a2babe85dd1d
+Author: Matanel <User@USER-THINK>
+Date:   Fri May 19 11:51:16 2017 +0300
+
+    MazeBoard user control added.
+    Window1 is up when hit the "User control - maze" button.
+    Cell user control added.
+
+commit cd4dd7772592506aeaba8d185452a7df8385dc72
+Merge: 551d5b4 bf442bb
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Fri May 19 01:08:08 2017 +0300
+
+    edit GUI.csproj for adding folder to the project
+
+commit 551d5b49245b509c9a1455a14efbe5bf28a13c2c
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Fri May 19 00:06:23 2017 +0300
+
+    finish design of MazeDetailsUserControl, singlePlayer and MultiPlayer  menu windoes
+
+commit bf442bbe71b34268800695894345ede3482cf52f
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 17 22:31:29 2017 +0300
+
+    Settings buttons name changed.
+
+commit 68d8edc69263756bd73fd8f4e0085a2cbcc09cd2
+Author: Matanel <User@USER-THINK>
+Date:   Wed May 17 22:29:50 2017 +0300
+
+    Settings windows is now set from the default settings.
+
+commit daa1ae21938f992f12b11a01bc048edd9e1261da
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 15 14:54:52 2017 +0300
+
+    add control folder and fix mazeDetailsUserControl
+
+commit 29ec5deab0c9264d08c579d4656580f57013bbd8
+Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+Date:   Mon May 15 12:13:20 2017 +0300
+
+    details user control, single player and multi player windows
+
+commit 5fd6c6d56bf3fa196cb6347b767d8c309799205f
+Author: Matanel <User@USER-THINK>
+Date:   Sun Apr 30 13:04:58 2017 +0300
+
+    Settings window is now a dialog window.
+
+commit 47d37b4bc5ffc0c37904c8db825773873ff71a77
+Author: Matanel <User@USER-THINK>
+Date:   Sat Apr 29 22:03:42 2017 +0300
+
+    Settings window created.
+
+commit cc20f220c6d22579dbdb83b72d01b58aa4561fd3
+Author: Matanel <User@USER-THINK>
+Date:   Thu Apr 27 18:11:37 2017 +0300
+
+    Buttons got horizontly and vertically centerd
+
+commit 774a54aff95e2fea442cf85961180e6f31c6d6f9
+Author: Matanel <User@USER-THINK>
+Date:   Thu Apr 27 12:30:41 2017 +0300
+
+    A main window created
+
+commit fb00ced03746f402ddada02702016f3a322151ae
+Author: Matanel <User@USER-THINK>
+Date:   Tue Apr 25 21:00:08 2017 +0300
+
+    First commit - ex2
+
+commit 977a2a0d213af8733470cf7cbb78b58225daa412
+Merge: fb834a2 401ee7d
+Author: Matanel <User@USER-THINK>
+Date:   Mon Apr 24 22:38:37 2017 +0300
+
+    Final commit - EX1
+
+commit fb834a22be6796181111be265aa7628e1c1c98fa
+Author: Matanel <User@USER-THINK>
+Date:   Mon Apr 24 14:23:56 2017 +0300
+
+    Try to fix view
+
+commit 401ee7d2fb7ceec2b1746499469ac74d026d2aca
+Merge: ea753c4 8664236
+Author: meir <meirtor1@gmail.com>
+Date:   Mon Apr 24 14:22:16 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit ea753c42eb734a3d90d565f699856468cc7d3805
+Author: meir <meirtor1@gmail.com>
+Date:   Mon Apr 24 14:21:38 2017 +0300
+
+    view stage
+
+commit 86642367cf7cb6341c02eebaebed12a260347ab5
+Merge: 5d02e1d 81f51d9
+Author: Matanel <User@USER-THINK>
+Date:   Mon Apr 24 14:15:16 2017 +0300
+
+    Merged the project.
+
+commit 5d02e1d4e8d16b5b99f121b822ab59d7c18b6916
+Author: Matanel <User@USER-THINK>
+Date:   Mon Apr 24 13:55:03 2017 +0300
+
+    Searcher - works with stack.
+    communication still not work as expected.
+
+commit 81f51d98a0c0bd205cd11c6e5438120927cc894a
+Author: meir <meirtor1@gmail.com>
+Date:   Mon Apr 24 13:22:27 2017 +0300
+
+    close command works.
+
+commit ed3cd7268deb54b5baf741aad8250fb54a955cc9
+Author: meir <meirtor1@gmail.com>
+Date:   Mon Apr 24 11:59:22 2017 +0300
+
+    play command works.
+    View can handle transferring messages
+
+commit 8fffbb05ad70239497b1bedb18ca77719e44e551
+Author: meir <meirtor1@gmail.com>
+Date:   Sun Apr 23 23:57:30 2017 +0300
+
+    bug in join fixed.
+    more documentation
+
+commit 3468abfac4b77e9114b3377d5e9bd13c07828349
+Author: meir <meirtor1@gmail.com>
+Date:   Sun Apr 23 23:34:45 2017 +0300
+
+    documentation
+
+commit a82c6d478a0166190fc6ed146aa3d32e0fd21f00
+Author: meir <meirtor1@gmail.com>
+Date:   Sun Apr 23 22:19:01 2017 +0300
+
+    join and start command working.
+    play command - for further checking
+
+commit df29a293cb22f9e7d85f11291275ebfd68065b34
+Author: Matanel <User@USER-THINK>
+Date:   Sun Apr 23 01:39:56 2017 +0300
+
+    Start support multiplayer game
+
+commit 2d589ab25bb99842e0151f5eb730444f04d43b75
+Author: Matanel <User@USER-THINK>
+Date:   Sun Apr 23 00:12:21 2017 +0300
+
+    Close command works
+
+commit df6a6e8c6f5db3b346087865f62cdf59ed87ded9
+Merge: 03a181f 051ccf5
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 21 15:02:17 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 03a181f55be9351557d5f82d8a22361c148e1026
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 21 15:00:42 2017 +0300
+
+    Commands Generate, list, solve work.
+
+commit 051ccf5aa8092cedcd86fbf96c53eb6ca7d0bfaf
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Fri Apr 21 08:04:45 2017 +0000
+
+    AssemblyInfo.cs deleted online with Bitbucket
+
+commit 4d06c4dec463e3ed595f3b91c9eb38d54b09344b
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 21 11:03:21 2017 +0300
+
+    Cosmetics + Add the basic flow:
+    View --> Controller - choose command --> Model
+
+commit e5e30e0622c1ae2839beec4c0e839af336dc2da8
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Fri Apr 21 00:55:36 2017 +0000
+
+    GenerateCommand.cs deleted online with Bitbucket
+
+commit 08d262c45f39670667d398f92510860aab3cc35a
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Fri Apr 21 00:55:14 2017 +0000
+
+    Program.cs deleted online with Bitbucket
+
+commit 95e9c21604f77c5b71621d7bd7bc8d1354c43ffa
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 21 03:20:40 2017 +0300
+
+    Fix the server's main function
+
+commit ac09bf1696aba2b1b976d8bdfaa094361a56eff6
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 21 03:10:27 2017 +0300
+
+    Restore matanel repository + create basic communication between client & server
+
+commit 62924f273bc49279f57290952760e33dbe5f901d
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:43:04 2017 +0000
+
+    Client.csproj deleted online with Bitbucket
+
+commit 9d7697ed9bb9935ea4676e4fc1556580751f999c
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:41:36 2017 +0000
+
+    Client.csproj created online with Bitbucket
+
+commit 64bced2aac000909e7d853e2c97279cda5657636
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:28:22 2017 +0000
+
+    SearchAlgorithmsLib.csproj deleted online with Bitbucket
+
+commit fb9ca549087a9df6517f670d629f094f48c90c3f
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:27:34 2017 +0000
+
+    SolveMaze.csproj deleted online with Bitbucket
+
+commit 92d859526096d2df7ab8ff47729fc486805aee48
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:27:19 2017 +0000
+
+    Server.csproj deleted online with Bitbucket
+
+commit 5ec498d2dba35ff1cc432d8e53aa730e0ecbe9f3
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:26:50 2017 +0000
+
+    ConsoleApp1.sln deleted online with Bitbucket
+
+commit 4857d988a60a8fcb460a9d767c2fc13e1065964c
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:20:14 2017 +0000
+
+    MazeGame.csproj deleted online with Bitbucket
+
+commit b72ed2fc13a94900d3b60735bbc6beceab6f6999
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 20 22:17:09 2017 +0000
+
+    ConsoleApp2.csproj deleted online with Bitbucket
+
+commit 06016aad3461384027ba98308724a3a1ad362a4f
+Author: meir <meirtor1@gmail.com>
+Date:   Fri Apr 21 01:03:00 2017 +0300
+
+    single player methods in the Model -
+    generate, solve and list
+
+commit 51c642001cb3f5aa92e07fdd8bbe4d388f690696
+Author: meir <meirtor1@gmail.com>
+Date:   Thu Apr 20 18:43:59 2017 +0300
+
+    client-server beginning
+
+commit ba52a5d90b117a4c557ddbadee1ba0ee1abceb24
+Merge: 9cfb520 36cdf09
+Author: meir <meirtor1@gmail.com>
+Date:   Wed Apr 19 04:15:45 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 9cfb520f676da158eb8a3b0d42abfa064aed9d28
+Author: meir <meirtor1@gmail.com>
+Date:   Wed Apr 19 04:15:07 2017 +0300
+
+    start of server-client
+
+commit 36cdf09e1287cc5f1e5808d8f97c915443c69fb0
+Merge: 92825b2 296db82
+Author: Matanel <User@USER-THINK>
+Date:   Tue Apr 18 23:28:29 2017 +0300
+
+    DFS works.
+
+commit 92825b22520252fa14e44ef240c352e893b09a0d
+Author: Matanel <User@USER-THINK>
+Date:   Mon Apr 17 22:58:20 2017 +0300
+
+    Fix print of about the state evaluated, to be more clearly.
+
+commit 296db8247d2273a2d3e0d012638e514e82567aa6
+Author: meir <meirtor1@gmail.com>
+Date:   Sat Apr 15 23:23:03 2017 +0300
+
+    completing the main
+
+commit da75a3792549e05079d6405d696cdfbd2440ec81
+Author: meir <meirtor1@gmail.com>
+Date:   Sat Apr 15 23:03:44 2017 +0300
+
+    adjustments to getState to update cost
+
+commit 7bf75a0983c8b24bdb82e210c8ae94df283866cf
+Author: meir <meirtor1@gmail.com>
+Date:   Sat Apr 15 22:55:13 2017 +0300
+
+    StatePool implemented and used in the adapter.
+
+commit 9998a868d9441123ca4ddbf31dd204854262e20d
+Author: Matanel <User@USER-THINK>
+Date:   Sat Apr 15 22:17:15 2017 +0300
+
+    BFS Algoritm completed!
+
+commit ea9d845144fa0276c41215e43ae8e7564455321e
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 14 09:49:28 2017 +0300
+
+    Generate the program flow +
+    Fix - make interfaces public.
+
+commit da8956782c5c5bddfa8e298db4f381a75a99aa50
+Author: Matanel <User@USER-THINK>
+Date:   Thu Apr 13 23:46:32 2017 +0300
+
+    Fix bug of uninitialize cost & cameFrom in the maze adapter.
+
+commit 2146e80ebcaa69ed220b28d4cfe1d46193489ab2
+Author: Matanel <User@USER-THINK>
+Date:   Thu Apr 13 23:32:37 2017 +0300
+
+    Add console application for maze search + create adapter from Maze to ISearchable interface.
+
+commit 788b26f994d467684779d6f4ddd400c58ec17204
+Author: Matanel <User@USER-THINK>
+Date:   Tue Apr 11 23:16:49 2017 +0300
+
+    PriorityQueue & BFS Algorithm added
+
+commit a3158f9357033282316eb40e1de5326f4fd45808
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 7 01:36:29 2017 +0300
+
+    Cosmetics
+
+commit 830b190cf42fec4a8f5c06d48a1cc3004fb60fd3
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 7 00:42:21 2017 +0300
+
+    A little order
+
+commit 085dce3369a2ff00c2882d95cd77064b35197b91
+Merge: a1b14fb 99c6619
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 7 00:20:44 2017 +0300
+
+    Merge branch 'master' of https://bitbucket.org/matanelshefa/ap2
+
+commit 99c6619b4d8b959afcbd2bfc6cf344a69781a6a3
+Author: not telling <torjmam@macs.biu.ac.il>
+Date:   Thu Apr 6 21:19:44 2017 +0000
+
+    README.md edited online with Bitbucket
+
+commit a1b14fb017983a561341b7402224dc9d0b43b1db
+Author: Matanel <User@USER-THINK>
+Date:   Fri Apr 7 00:19:31 2017 +0300
+
+    Class1 removed
+
+commit 2c5fe5133a0529d058f1a4cd54184adc99e22893
+Author: User <User@USER-THINK>
+Date:   Fri Apr 7 00:05:26 2017 +0300
+
+    Start of the project
+
+commit 5aa9786d36d9b7fd790927ee018f8fd997dbc7bc
+Author: User <User@USER-THINK>
+Date:   Thu Apr 6 22:02:50 2017 +0300
+
+    first commit
+
+commit fa925ee4bea444cca9ce63c90d57b124cf07a2bf
+Author: matanel shefa <shefama@macs.biu.ac.il>
+Date:   Thu Apr 6 18:51:49 2017 +0000
+
+    README.md created online with Bitbucket

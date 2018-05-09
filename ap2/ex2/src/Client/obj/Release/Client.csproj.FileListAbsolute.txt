@@ -1,0 +1,5 @@
+C:\Users\S\Desktop\ap2\ex2\Client\bin\Release\Client.exe.config
+C:\Users\S\Desktop\ap2\ex2\Client\bin\Release\Client.exe
+C:\Users\S\Desktop\ap2\ex2\Client\bin\Release\Client.pdb
+C:\Users\S\Desktop\ap2\ex2\Client\obj\Release\Client.exe
+C:\Users\S\Desktop\ap2\ex2\Client\obj\Release\Client.pdb

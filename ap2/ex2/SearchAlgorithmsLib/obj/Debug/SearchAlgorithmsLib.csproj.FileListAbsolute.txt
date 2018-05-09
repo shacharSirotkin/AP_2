@@ -1,0 +1,14 @@
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\bin\Debug\MazeGeneratorLib.dll
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\bin\Debug\MazeLib.dll
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\S\Source\Repos\ap2\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Debug\SearchAlgorithmsLib.pdb
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Debug\MazeGeneratorLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\bin\Debug\MazeLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.csprojResolveAssemblyReference.cache
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.dll
+C:\Users\S\Desktop\ap2\ex2\SearchAlgorithmsLib\obj\Debug\SearchAlgorithmsLib.pdb

@@ -1,0 +1,17 @@
+﻿<Window x:Class="GUI.SinglePlayerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        xmlns:controls="clr-namespace:GUI.Controls"
+        Closing="Window_Closing" 
+
+        mc:Ignorable="d"
+        Title="SinglePlayerWindow" Height="300" Width="300">
+    <Grid Margin="-2,0,2,0">
+        <TextBlock Text="Single player" Margin="100,20,87,0" FontSize="16" VerticalAlignment="Top" FontWeight="Bold" TextDecorations="Underline"/>
+        <controls:MazeDetailsUserControl x:Name="MazeDetails" Margin="0,0,0,10" Rows="{Binding MazeRows}" Cols="{Binding MazeCols}" MazeNameProp="{Binding MazeName}" Loaded="MazeDetails_Loaded" />
+        <Button  Name="StartButton" Content="start" FontSize="16" Margin="95,198,97,35" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" Click="StartButton_Click"/>
+    </Grid>
+</Window>

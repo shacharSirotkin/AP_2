@@ -1,0 +1,113 @@
+* commit f10ba5d9f2090028fc596b231c26e1bfed9e3f4e
+| Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| Date:   Fri Jun 30 02:57:09 2017 +0200
+| 
+|     multi player works. now only need to  update db at the end of the game
+| 
+* commit e3d6dccc46af3dd8f0904008d352e0f4a4fed9a7
+| Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| Date:   Tue Jun 27 19:49:06 2017 +0200
+| 
+|     now its realy work
+| 
+* commit 3fb7ba2bc39b9026551b973b8e1fe4de67f5a629
+| Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| Date:   Tue Jun 27 19:34:20 2017 +0200
+| 
+|     everything should work
+|   
+*   commit da3ddae8f9e81e91855844bb14f88b95b0517467
+|\  Merge: a1ae288 1e76c25
+| | Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| | Date:   Mon Jun 26 22:32:20 2017 +0200
+| | 
+| |     merge multiple game html and js
+| | 
+| * commit 1e76c25809dfc9fdd4ff54fc28e35526af7e9248
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Mon Jun 26 22:22:49 2017 +0300
+| | 
+| |     Default values for multiplayer fixed.
+| | 
+| * commit 1b513c3c63e68b753fb3aa15632150da91a8ad38
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Mon Jun 26 21:41:36 2017 +0300
+| | 
+| |     Check if Username exist before registeration.
+| | 
+| * commit 79a1c2ab02c11a96610a89d69e8523448d2b5746
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Mon Jun 26 19:54:59 2017 +0300
+| | 
+| |     Loading sign in login, logout and user ranking.
+| |     PNotify on registeration.
+| | 
+| * commit b57a2c27e5d1ceebbc5f478423a9d6660f34c910
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Mon Jun 26 14:37:13 2017 +0300
+| | 
+| |     changes:
+| |     1. login and logout is perfect now.
+| |     2. At login - the username is display in ths navigation bar instead of the "login/register" buttens.
+| |     3. multiplayer has default values for rows and cols.
+| | 
+| * commit 6d24b7d7c6ca1f1297f2ba0a9790d9d0a8a13e90
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Sun Jun 25 23:05:16 2017 +0300
+| | 
+| |     UserRanking page is finish! :)
+| | 
+| * commit 686e3d572c54955857ae9706768fbd7839fe19b6
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Sun Jun 25 14:59:26 2017 +0300
+| | 
+| |     login is half finished.
+| | 
+* | commit a1ae2883010e10233d1b58e070e3b6a1e07e3266
+|/  Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+|   Date:   Mon Jun 26 22:30:57 2017 +0200
+|   
+|       multiple starts works. multiple game doesnt
+| 
+* commit a52237522b890554e92cef69da5b65f4e3004df6
+| Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| Date:   Thu Jun 22 19:13:17 2017 +0200
+| 
+|     Registration success. Need to add Hash to password before sending user to server.  single player works.
+| 
+* commit e9003a9e0d2706202a1c4cc7aa1c15ee6c026d5d
+| Author: Matanel <User@USER-THINK>
+| Date:   Mon Jun 19 12:04:11 2017 +0300
+| 
+|     settings save also to singlePlayer.
+|   
+*   commit 3f88cee1f0fb8c4017e02fce40a46b27350f9ba8
+|\  Merge: 6073850 e56a5b7
+| | Author: Matanel <User@USER-THINK>
+| | Date:   Mon Jun 19 11:42:46 2017 +0300
+| | 
+| |     Merge branch 'master' of https://bitbucket.org/shachar_ss/ap2web
+| | 
+| * commit e56a5b7d936aa1261cde6b2da8ad54027dce076b
+| | Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| | Date:   Mon Jun 19 10:47:49 2017 +0200
+| | 
+| |     single player is working!!!!
+| | 
+* | commit 60738506f869c18e76c2058acf0381c9611efd2b
+|/  Author: Matanel <User@USER-THINK>
+|   Date:   Mon Jun 19 11:30:47 2017 +0300
+|   
+|       Settings now save as expected.
+| 
+* commit 2928c6291b04d51b793b14d9c3ec8d089b82d5e7
+| Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+| Date:   Sat Jun 17 23:16:53 2017 +0200
+| 
+|     Add project files.
+| 
+* commit 31056a067461ed200fc490e2bc81701d9cb9a229
+  Author: שחר סירוטקין <shachar_sirotkin@hotmail.com>
+  Date:   Sat Jun 17 23:16:49 2017 +0200
+  
+      Add .gitignore and .gitattributes.

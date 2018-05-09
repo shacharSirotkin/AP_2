@@ -1,0 +1,12 @@
+C:\Users\S\Source\Repos\ap2\ex2\Client\bin\Debug\Client.exe.config
+C:\Users\S\Source\Repos\ap2\ex2\Client\bin\Debug\Client.exe
+C:\Users\S\Source\Repos\ap2\ex2\Client\bin\Debug\Client.pdb
+C:\Users\S\Source\Repos\ap2\ex2\Client\obj\Debug\Client.exe
+C:\Users\S\Source\Repos\ap2\ex2\Client\obj\Debug\Client.pdb
+C:\Users\S\Source\Repos\ap2\ex2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\S\Desktop\ap2\ex2\Client\bin\Debug\Client.exe.config
+C:\Users\S\Desktop\ap2\ex2\Client\bin\Debug\Client.exe
+C:\Users\S\Desktop\ap2\ex2\Client\bin\Debug\Client.pdb
+C:\Users\S\Desktop\ap2\ex2\Client\obj\Debug\Client.exe
+C:\Users\S\Desktop\ap2\ex2\Client\obj\Debug\Client.pdb
+C:\Users\S\Desktop\ap2\ex2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
